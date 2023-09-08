@@ -1,6 +1,5 @@
-vue3 练手项目
-![image](https://github.com/a526800921/MicroSoft-To-Do/assets/26155877/fa318c27-b4a4-4fee-aac4-0e873e83a23b)
-
+练手项目 vue3 + ts + pinia
+![image](https://github.com/a526800921/MicroSoft-To-Do-Vue3/assets/26155877/fe498d8b-9846-4cec-a32f-54d49df6230e)
 
 
 # vue-project
